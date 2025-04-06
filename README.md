@@ -49,8 +49,6 @@ I'm passionate about building intelligent systems and AI-driven solutions that m
 
 - 📰 Published research on **Solar panel cleaning robot** in IRJMETS.
 
----
-
 ## 🎓 Education
 
 - **B.Tech** – Sanjivani University – *7.86 SGPA*
